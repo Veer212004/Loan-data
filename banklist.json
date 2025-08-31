@@ -1,197 +1,416 @@
-[
-    {
-        "Lenders":"HDFC Bank",
-        "Interest Rate(% p.a.)":"13.00%"
-    },
-    {
-        "Lenders":"Axis Bank",
-        "Interest Rate(% p.a.)":"16.25%"
-    },
-    {
-        "Lenders":"Bajaj Finserv",
-        "Interest Rate(% p.a.)":"19.00% \u2013 30.00%"
-    },
-    {
-        "Lenders":"Yes Bank",
-        "Interest Rate(% p.a.)":"15.99% \u2013 24.25%"
-    },
-    {
-        "Lenders":"Tata Capital",
-        "Interest Rate(% p.a.)":"13.75% \u2013 26.00%"
-    },
-    {
-        "Lenders":"HDB Financial Services Ltd.",
-        "Interest Rate(% p.a.)":"22.00% \u2013 32.00%"
-    },
-    {
-        "Lenders":"Aditya Birla Finance",
-        "Interest Rate(% p.a.)":"21.00%"
-    },
-    {
-        "Lenders":"LendingKart",
-        "Interest Rate(% p.a.)":"28.00%"
-    },
-    {
-        "Lenders":"IDFC FIRST Bank",
-        "Interest Rate(% p.a.)":"11.50% \u2013 16.00%"
-    },
-    {
-        "Lenders":"Flexiloans",
-        "Interest Rate(% p.a.)":"29.00%"
-    },
-    {
-        "Lenders":"Indifi Capital",
-        "Interest Rate(% p.a.)":"24.00% \u2013 35.00%"
-    },
-    {
-        "Lenders":"UGRO Capital",
-        "Interest Rate(% p.a.)":"20.00% \u2013 25.00%"
-    },
-    {
-        "Lenders":"Poonawalla Fincorp",
-        "Interest Rate(% p.a.)":"13.00% \u2013 26.00%"
-    },
-    {
-        "Lenders":"Protium",
-        "Interest Rate(% p.a.)":"26.00% \u2013 34.00%"
-    },
-    {
-        "Lenders":"L&T Finance",
-        "Interest Rate(% p.a.)":"15.00% \u2013 19.00%"
-    },
-    {
-        "Lenders":"ICICI Bank (OD)",
-        "Interest Rate(% p.a.)":"16.00%"
-    },
-    {
-        "Lenders":"Godrej Capital",
-        "Interest Rate(% p.a.)":"22.00% \u2013 27.00%"
-    },
-    {
-        "Lenders":"Muthoot Fincorp",
-        "Interest Rate(% p.a.)":"28.00%"
-    },
-    {
-        "Lenders":"Shriram Finance",
-        "Interest Rate(% p.a.)":"21.00% \u2013 22.00%"
-    },
-    {
-        "Lenders":"Kotak Mahindra Bank",
-        "Interest Rate(% p.a.)":"10.50% \u2013 26.00%"
-    }
-    , {
-        "Bank\/Lender Name":"SBI",
-        "Car Loan Interest Rate":"9.25% onwards",
-        "Loan Processing Fees":"0.50% of Loan Amount +STMin: Rs.950.00 +ST, Max: Rs.9100.00 +ST"
-    },
-    {
-        "Bank\/Lender Name":"HDFC Bank",
-        "Car Loan Interest Rate":"9.35% onwards",
-        "Loan Processing Fees":"Rs.2825 to Rs.5150 (depends on the loan amount)"
-    },
-    {
-        "Bank\/Lender Name":"ICICI Bank",
-        "Car Loan Interest Rate":"9.55%\u00a0onwards",
-        "Loan Processing Fees":"Rs.2500 to Rs.5000 (depends on the loan amount)"
-    },
-    {
-        "Bank\/Lender Name":"Axis Bank",
-        "Car Loan Interest Rate":"9.50% onwards",
-        "Loan Processing Fees":"Rs.3500 to Rs.5500"
-    },
-    {
-        "Bank\/Lender Name":"IDBI Bank",
-        "Car Loan Interest Rate":"9.95% onwards",
-        "Loan Processing Fees":"NIL"
-    },
-    {
-        "Bank\/Lender Name":"Punjab National Bank",
-        "Car Loan Interest Rate":"9.25% onwards",
-        "Loan Processing Fees":"1% of the loan amount. (Max-Rs.6000)"
-    },
-    {
-        "Bank\/Lender Name":"Bank of India",
-        "Car Loan Interest Rate":"9.25% onwards",
-        "Loan Processing Fees":"Rs.500\/- plus S.T. or 1% of loan amount. Min: Rs.500 and Max: Rs.10,000"
-    },
-    {
-        "Bank\/Lender Name":"Syndicate Bank",
-        "Car Loan Interest Rate":"10.1% onwards",
-        "Loan Processing Fees":"Up to 2 Lakhs: Rs.1.25 per thousand. Minimum: Rs.125\/-Above 2 lakhs: Rs.200 per lakh."
-    },
-     {
-        "Banks\/NBFCs":"HDFC Bank",
-        "Interest Rates":"9.99 % - 12.5 %",
-        "Processing Fees":"Rs 3499 to Rs 6500"
-    },
-    {
-        "Banks\/NBFCs":"Axis Bank",
-        "Interest Rates":"9.99 % - 17.15 %",
-        "Processing Fees":"1% - 1.5 %"
-    },
-    {
-        "Banks\/NBFCs":"ICICI Bank",
-        "Interest Rates":"11 % - 13.0 %",
-        "Processing Fees":"Up to 2%"
-    },
-    {
-        "Banks\/NBFCs":"Kotak Mahindra Bank",
-        "Interest Rates":"10.5 % - 17.2 %",
-        "Processing Fees":"1.1% - 1.5 %"
-    },
-    {
-        "Banks\/NBFCs":"IndusInd Bank",
-        "Interest Rates":"10.35% - 16.5%",
-        "Processing Fees":"1.3% - 2 %"
-    },
-    {
-        "Banks\/NBFCs":"IDFC FIRST Bank",
-        "Interest Rates":"10.5% - 20.0 %",
-        "Processing Fees":"Up to 2%"
-    },
-    {
-        "Banks\/NBFCs":"Federal Bank",
-        "Interest Rates":"12.0% - 19.5 %",
-        "Processing Fees":"up to 2%"
-    },
-    {
-        "Banks\/NBFCs":"YES Bank",
-        "Interest Rates":"13% - 16%",
-        "Processing Fees":"1.5% - 2.25%"
-    },
-    {
-        "Banks\/NBFCs":"Tata Capital",
-        "Interest Rates":"11.99 % - 13.99 %",
-        "Processing Fees":"Upto 1.25%"
-    },
-    {
-        "Banks\/NBFCs":"Aditya Birla Finance",
-        "Interest Rates":"10.99% p.a. onwards",
-        "Processing Fees":"Up to 4%"
-    },
-    {
-        "Banks\/NBFCs":"L&T Finance",
-        "Interest Rates":"11.00% p.a. onwards",
-        "Processing Fees":"Up to 3%"
-    },
-    {
-        "Banks\/NBFCs":"Hero Fincorp",
-        "Interest Rates":"19.75%-30.00% p.a.",
-        "Processing Fees":"2.3%-3%"
-    },
-    {
-        "Banks\/NBFCs":"Piramal Finance",
-        "Interest Rates":"12.90% p.a. onwards",
-        "Processing Fees":"Up to 5%"
-    },
-    {
-        "Banks\/NBFCs":"Poonawalla Fincorp",
-        "Interest Rates":"18%-36% p.a.",
-        "Processing Fees":"Up to 3%"
-    },
-    {
-        "Banks\/NBFCs":"Moneyview",
-        "Interest Rates":"14%-36% p.a.",
-        "Processing Fees":"Up to 2%"
-    }
+ [
+  {
+    "Bank Name": "Axis Bank",
+    "Highest Slab": 7.2,
+    "1 year tenure": 6.7,
+    "3 year tenure": 7.1,
+    "5 year tenure": 7,
+    "Senior Citizens": "7.75%",
+    "Official Website": "https://www.axisbank.com/"
+  },
+  {
+    "Bank Name": "Bandhan Bank",
+    "Highest Slab": 7.85,
+    "1 year tenure": 7.85,
+    "3 year tenure": 7.25,
+    "5 year tenure": 5.85,
+    "Senior Citizens": "7.50%",
+    "Official Website": "https://bandhanbank.com/"
+  },
+  {
+    "Bank Name": "City Union Bank",
+    "Highest Slab": 7.25,
+    "1 year tenure": 7,
+    "3 year tenure": 6.5,
+    "5 year tenure": 6.25,
+    "Senior Citizens": "7.25%",
+    "Official Website": "https://www.cityunionbank.com/"
+  },
+  {
+    "Bank Name": "CSB Bank",
+    "Highest Slab": 7.75,
+    "1 year tenure": 5,
+    "3 year tenure": 5.75,
+    "5 year tenure": 5.75,
+    "Senior Citizens": "7.75%",
+    "Official Website": "https://www.csb.co.in/"
+  },
+  {
+    "Bank Name": "DBS Bank",
+    "Highest Slab": 7.5,
+    "1 year tenure": 7,
+    "3 year tenure": 6.5,
+    "5 year tenure": 6.5,
+    "Senior Citizens": "7.5%",
+    "Official Website": "https://www.dbs.com/"
+  },
+  {
+    "Bank Name": "DCB Bank",
+    "Highest Slab": 8.05,
+    "1 year tenure": 7.1,
+    "3 year tenure": 7.55,
+    "5 year tenure": 7.4,
+    "Senior Citizens": "7.90%",
+    "Official Website": "https://www.dcbbank.com/"
+  },
+  {
+    "Bank Name": "Dhanlaxmi Bank",
+    "Highest Slab": 7.25,
+    "1 year tenure": 6.75,
+    "3 year tenure": 6.5,
+    "5 year tenure": 7.25,
+    "Senior Citizens": "7.25%",
+    "Official Website": "https://www.dhanbank.com/"
+  },
+  {
+    "Bank Name": "Federal Bank",
+    "Highest Slab": 7.4,
+    "1 year tenure": 6.8,
+    "3 year tenure": 7,
+    "5 year tenure": 6.6,
+    "Senior Citizens": "7.25%",
+    "Official Website": "https://www.federalbank.co.in/"
+  },
+  {
+    "Bank Name": "HDFC Bank",
+    "Highest Slab": 7.25,
+    "1 year tenure": 6.6,
+    "3 year tenure": 7.15,
+    "5 year tenure": 7.2,
+    "Senior Citizens": "7.70%",
+    "Official Website": "https://www.hdfcbank.com/"
+  },
+  {
+    "Bank Name": "ICICI Bank",
+    "Highest Slab": 7.2,
+    "1 year tenure": 6.7,
+    "3 year tenure": 7,
+    "5 year tenure": 7,
+    "Senior Citizens": "7.50%",
+    "Official Website": "https://www.icicibank.com/"
+  },
+  {
+    "Bank Name": "IDBI Bank",
+    "Highest Slab": 7.25,
+    "1 year tenure": 6.8,
+    "3 year tenure": 6.5,
+    "5 year tenure": 6.5,
+    "Senior Citizens": "7.00%",
+    "Official Website": "https://www.idbibank.in/"
+  },
+  {
+    "Bank Name": "IDFC First Bank",
+    "Highest Slab": 7.9,
+    "1 year tenure": 6.5,
+    "3 year tenure": 7.25,
+    "5 year tenure": 7,
+    "Senior Citizens": "7.50%",
+    "Official Website": "https://www.idfcfirstbank.com/"
+  },
+  {
+    "Bank Name": "IndusInd Bank",
+    "Highest Slab": 7.99,
+    "1 year tenure": 7.75,
+    "3 year tenure": 7.25,
+    "5 year tenure": 7.25,
+    "Senior Citizens": "7.75%",
+    "Official Website": "https://www.indusind.com/"
+  },
+  {
+    "Bank Name": "Jammu & Kashmir Bank",
+    "Highest Slab": 7.05,
+    "1 year tenure": 7.05,
+    "3 year tenure": 6.5,
+    "5 year tenure": 6.5,
+    "Senior Citizens": "7.00%",
+    "Official Website": "https://www.jkbank.com/"
+  },
+  {
+    "Bank Name": "Karnataka Bank",
+    "Highest Slab": 7.25,
+    "1 year tenure": 7.1,
+    "3 year tenure": 6.5,
+    "5 year tenure": 6.5,
+    "Senior Citizens": "6.90%",
+    "Official Website": "https://www.karnatakabank.com/"
+  },
+  {
+    "Bank Name": "Karur Vysya Bank",
+    "Highest Slab": 7.5,
+    "1 year tenure": 7,
+    "3 year tenure": 7,
+    "5 year tenure": 6.5,
+    "Senior Citizens": "5.90%",
+    "Official Website": "https://www.kvb.co.in/"
+  },
+  {
+    "Bank Name": "Kotak Mahindra Bank",
+    "Highest Slab": 7.4,
+    "1 year tenure": 7.1,
+    "3 year tenure": 7,
+    "5 year tenure": 6.2,
+    "Senior Citizens": "6.70%",
+    "Official Website": "https://www.kotak.com/"
+  },
+  {
+    "Bank Name": "Nainital Bank",
+    "Highest Slab": 7.05,
+    "1 year tenure": 6.7,
+    "3 year tenure": 6.25,
+    "5 year tenure": 5.75,
+    "Senior Citizens": "7.05%",
+    "Official Website": "https://www.nainitalbank.co.in/"
+  },
+  {
+    "Bank Name": "RBL Bank",
+    "Highest Slab": 8,
+    "1 year tenure": 7.5,
+    "3 year tenure": 7.5,
+    "5 year tenure": 7.1,
+    "Senior Citizens": "7.60%",
+    "Official Website": "https://www.rblbank.com/"
+  },
+  {
+    "Bank Name": "SBM Bank India",
+    "Highest Slab": 8.4,
+    "1 year tenure": 7.1,
+    "3 year tenure": 7.6,
+    "5 year tenure": 7.75,
+    "Senior Citizens": "8.25%",
+    "Official Website": "https://www.sbmbank.co.in/"
+  },
+  {
+    "Bank Name": "South Indian Bank",
+    "Highest Slab": 7.25,
+    "1 year tenure": 6.7,
+    "3 year tenure": 6.7,
+    "5 year tenure": 6,
+    "Senior Citizens": "6.50%",
+    "Official Website": "https://www.southindianbank.com/"
+  },
+  {
+    "Bank Name": "Tamilnad Mercantile Bank",
+    "Highest Slab": 7.5,
+    "1 year tenure": 7,
+    "3 year tenure": 6.5,
+    "5 year tenure": 6.5,
+    "Senior Citizens": "7.00%",
+    "Official Website": "https://www.tmb.in/"
+  },
+  {
+    "Bank Name": "Yes Bank",
+    "Highest Slab": 8,
+    "1 year tenure": 7.25,
+    "3 year tenure": 7.25,
+    "5 year tenure": 7.25,
+    "Senior Citizens": "8.00%",
+    "Official Website": "https://www.yesbank.in/"
+  },
+  {
+    "Bank Name": "Bank of Baroda",
+    "Highest Slab": 7.25,
+    "1 year tenure": 6.85,
+    "3 year tenure": 7.25,
+    "5 year tenure": 6.5,
+    "Senior Citizens": "7.15% – 7.50%",
+    "Official Website": "https://www.bankofbaroda.in/"
+  },
+  {
+    "Bank Name": "Bank of India",
+    "Highest Slab": 7.3,
+    "1 year tenure": 6.8,
+    "3 year tenure": 6.5,
+    "5 year tenure": 6,
+    "Senior Citizens": "6.75% (6.90% for super senior citizens)",
+    "Official Website": "https://www.bankofindia.co.in/"
+  },
+  {
+    "Bank Name": "Bank of Maharashtra",
+    "Highest Slab": 7.25,
+    "1 year tenure": 6.75,
+    "3 year tenure": 6.5,
+    "5 year tenure": 6.5,
+    "Senior Citizens": "7.00%",
+    "Official Website": "https://www.bankofmaharashtra.in/"
+  },
+  {
+    "Bank Name": "Canara Bank",
+    "Highest Slab": 7.25,
+    "1 year tenure": 6.85,
+    "3 year tenure": 6.8,
+    "5 year tenure": 6.7,
+    "Senior Citizens": "7.25%",
+    "Official Website": "https://www.canarabank.com/"
+  },
+   {
+    "Bank Name": "Central Bank of India",
+    "Highest Slab": 7.3,
+    "1 year tenure": 6.85,
+    "3 year tenure": 6.5,
+    "5 year tenure": 6.5,
+    "Senior Citizens": "7.00%",
+    "Official Website": "https://www.centralbankofindia.co.in/"
+  },
+  {
+    "Bank Name": "Indian Bank",
+    "Highest Slab": 7.25,
+    "1 year tenure": 6.1,
+    "3 year tenure": 6.25,
+    "5 year tenure": 6.25,
+    "Senior Citizens": "6.60% – 6.75%",
+    "Official Website": "https://www.indianbank.in/"
+  },
+  {
+    "Bank Name": "Indian Overseas Bank",
+    "Highest Slab": 7.3,
+    "1 year tenure": 6.9,
+    "3 year tenure": 6.5,
+    "5 year tenure": 6.5,
+    "Senior Citizens": "7.00%",
+    "Official Website": "https://www.iob.in/"
+  },
+  {
+    "Bank Name": "Punjab & Sind Bank",
+    "Highest Slab": 7.3,
+    "1 year tenure": 6.3,
+    "3 year tenure": 6,
+    "5 year tenure": 6,
+    "Senior Citizens": "6.50%",
+    "Official Website": "https://www.psbindia.com/"
+  },
+  {
+    "Bank Name": "Punjab National Bank",
+    "Highest Slab": 7.25,
+    "1 year tenure": 6.75,
+    "3 year tenure": 7,
+    "5 year tenure": 6.5,
+    "Senior Citizens": "7.25%",
+    "Official Website": "https://www.pnbindia.in/"
+  },
+  {
+    "Bank Name": "State Bank of India",
+    "Highest Slab": 7.1,
+    "1 year tenure": 6.8,
+    "3 year tenure": 6.75,
+    "5 year tenure": 6.5,
+    "Senior Citizens": "7.50%",
+    "Official Website": "https://www.sbi.co.in/"
+  },
+  {
+    "Bank Name": "UCO Bank",
+    "Highest Slab": 7.05,
+    "1 year tenure": 6.5,
+    "3 year tenure": 6.3,
+    "5 year tenure": 6.2,
+    "Senior Citizens": "6.70%",
+    "Official Website": "https://www.ucobank.com/"
+  },
+  {
+    "Bank Name": "Union Bank of India",
+    "Highest Slab": 7.25,
+    "1 year tenure": 6.75,
+    "3 year tenure": 6.5,
+    "5 year tenure": 6.5,
+    "Senior Citizens": "7.00%",
+    "Official Website": "https://www.unionbankofindia.co.in/"
+  },
+  {
+    "Bank Name": "AU Small Finance Bank",
+    "Highest Slab": 8,
+    "1 year tenure": 7.25,
+    "3 year tenure": 7.5,
+    "5 year tenure": 7.25,
+    "Senior Citizens": "7.75%",
+    "Official Website": "https://www.aubank.in/"
+  },
+  {
+    "Bank Name": "Capital Small Finance Bank Limited",
+    "Highest Slab": 7.55,
+    "1 year tenure": 7.5,
+    "3 year tenure": 7.15,
+    "5 year tenure": 7.1,
+    "Senior Citizens": "7.60%",
+    "Official Website": "https://www.capitalsmallfinance.com/"
+  },
+  {
+    "Bank Name": "Equitas Small Finance Bank",
+    "Highest Slab": 8.5,
+    "1 year tenure": 8.2,
+    "3 year tenure": 8,
+    "5 year tenure": 7.25,
+    "Senior Citizens": "8.5%",
+    "Official Website": "https://www.equitasbank.com/"
+  },
+  {
+    "Bank Name": "ESAF Small Finance Bank",
+    "Highest Slab": 8.25,
+    "1 year tenure": 6,
+    "3 year tenure": 6.75,
+    "5 year tenure": 6.25,
+    "Senior Citizens": "8.25%",
+    "Official Website": "https://www.esafbank.com/"
+  },
+  {
+    "Bank Name": "Jana Small Finance Bank",
+    "Highest Slab": 8.5,
+    "1 year tenure": 8.5,
+    "3 year tenure": 7.25,
+    "5 year tenure": 7.25,
+    "Senior Citizens": "7.75%",
+    "Official Website": "https://www.janabank.com/"
+  },
+  {
+    "Bank Name": "North East Small Finance Bank",
+    "Highest Slab": 9,
+    "1 year tenure": 7,
+    "3 year tenure": 8,
+    "5 year tenure": 6.25,
+    "Senior Citizens": "9%",
+    "Official Website": "https://www.nesfb.com/"
+  },
+  {
+    "Bank Name": "Shivalik Small Finance Bank Limited",
+    "Highest Slab": 8.55,
+    "1 year tenure": 7.8,
+    "3 year tenure": 7.5,
+    "5 year tenure": 6.5,
+    "Senior Citizens": "7.00%",
+    "Official Website": "https://www.shivalikbank.com/"
+  },
+  {
+    "Bank Name": "Suryoday Small Finance Bank",
+    "Highest Slab": 8.65,
+    "1 year tenure": 6.85,
+    "3 year tenure": 8.6,
+    "5 year tenure": 8.25,
+    "Senior Citizens": "8.75%",
+    "Official Website": "https://www.suryodaybank.com/"
+  },
+  {
+    "Bank Name": "Ujjivan Small Finance Bank",
+    "Highest Slab": 8.25,
+    "1 year tenure": 8.25,
+    "3 year tenure": 7.2,
+    "5 year tenure": 7.2,
+    "Senior Citizens": "7.70%",
+    "Official Website": "https://www.ujjivansfb.in/"
+  },
+  {
+    "Bank Name": "Unity Small Finance Bank",
+    "Highest Slab": 9,
+    "1 year tenure": 7.85,
+    "3 year tenure": 8.15,
+    "5 year tenure": 8.15,
+    "Senior Citizens": "9%",
+    "Official Website": "https://www.unitysmallfinancebank.com/"
+  },
+  {
+    "Bank Name": "Utkarsh Small Finance Bank",
+    "Highest Slab": 8.5,
+    "1 year tenure": 8,
+    "3 year tenure": 8.5,
+    "5 year tenure": 7.75,
+    "Senior Citizens": "8.10%",
+    "Official Website": "https://www.utkarsh.bank/"
+  }
 ]
