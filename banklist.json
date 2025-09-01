@@ -1,387 +1,646 @@
-
 [
   {
-    "loan_type": "Personal Loan",
-    "bank": "Axis Bank",
-    "loan_amount": "₹500,000",
-    "customer_reviews": [
-      {
-        "reviewer_name": "Gowri",
-        "location": "Bengaluru, India",
-        "rating": 5,
-        "review": "The personal loan offers and approval process is very swift, efficient.",
-        "date": "2025-08-10"
-      },
-      {
-        "reviewer_name": "Dharmesh",
-        "location": "Mumbai, India",
-        "rating": 4,
-        "review": "I was in dire need of money. I have got personal loan in few seconds in my SB Account. I am extremely happy.",
-        "date": "2025-07-25"
-      },
-      {
-        "reviewer_name": "Vijayakumar",
-        "location": "Chennai, India",
-        "rating": 5,
-        "review": "This is really Awesome! Instant means Axis.",
-        "date": "2025-06-30"
-      }
-    ]
+    "bankName": "Axis Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "720+",
+      "minIncome": "₹25,000/month",
+      "employmentType": "Salaried",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "9.99%–22%",
+      "website": "https://www.axisbank.com/personal/borrow/popular-loans/personal-loan/eligibility"
+    }
   },
   {
-    "loan_type": "Home Loan",
-    "bank": "Central Bank of India",
-    "loan_amount": "₹3,000,000",
-    "customer_reviews": [
-      {
-        "reviewer_name": "M S",
-        "location": "Bengaluru, India",
-        "rating": 4,
-        "review": "I have taken a home loan from Central Bank of India and it was a good loan experience. The loan amount was for Rs 30 lakhs with the rate of interest of 8.25% which is less when compared to all other banks. The process was medium and it took 2 months to receive the loan. Customer service was good. The tenure of this loan is 20 years.",
-        "date": "2020-01-27"
-      },
-      {
-        "reviewer_name": "Ranganath G Gopal",
-        "location": "Bengaluru, India",
-        "rating": 5,
-        "review": "This Central Bank Of India offered me a Home loan of 8.6% rate of interest and processing fee was Rs. 33000. I have applied the loan directly and they sanctioned on time. The loan amount was sufficient and documentation process is smooth. I am paying Rs 53000 as monthly EMI.",
-        "date": "2019-04-11"
-      },
-      {
-        "reviewer_name": "Keerthivasan Venkatasalapathy",
-        "location": "Chennai, India",
-        "rating": 5,
-        "review": "Long back I have taken a home loan from Central Bank of India. The rate of interest and charges I have no idea about that. Documentation process is easy and smooth. The loan amount was Rs. 20,00,000 I received the loan amount within a week. It's a fast approved loan.",
-        "date": "2019-03-29"
-      }
-    ]
+    "bankName": "Bank of Baroda",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 65,
+      "tenure": "12–84 months",
+      "interestRate": "11.25% p.a.",
+      "website": "https://www.bankofbaroda.in/personal-banking/loans/personal-loan/baroda-personal-loan"
+    }
   },
   {
-    "loan_type": "Auto Loan",
-    "bank": "Bank of India",
-    "loan_amount": "₹1,000,000",
-    "customer_reviews": [
-      {
-        "reviewer_name": "Anonymous",
-        "location": "Mumbai, India",
-        "rating": 4,
-        "review": "The process was hassle-free and not overworked with documentation. The loan availing process takes place online and can be finished within 15 minutes.",
-        "date": "2024-05-15"
-      },
-      {
-        "reviewer_name": "Anonymous",
-        "location": "Delhi, India",
-        "rating": 5,
-        "review": "There are no hidden charges while closing the loan. The process is hassle-free and not overworked with documentation.",
-        "date": "2024-04-10"
-      }
-    ]
+    "bankName": "Bank of India",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.10%–14.15%",
+      "website": "https://www.bankofindia.co.in/personal-loan/star-personal-loan"
+    }
   },
   {
-    "loan_type": "Personal Loan",
-    "bank": "HDFC Bank",
-    "loan_amount": "₹1,500,000",
-    "customer_reviews": [
-      {
-        "reviewer_name": "Amit Sharma",
-        "location": "Delhi, India",
-        "rating": 4,
-        "review": "The loan process was smooth, and the disbursal was quick. However, the interest rate could be lower.",
-        "date": "2025-07-15"
-      },
-      {
-        "reviewer_name": "Neha Gupta",
-        "location": "Mumbai, India",
-        "rating": 5,
-        "review": "Excellent customer service and transparent terms. Highly recommend!",
-        "date": "2025-06-20"
-      }
-    ]
+    "bankName": "Bank of Maharashtra",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹25,000/month",
+      "employmentType": "Salaried",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "9.00%–20.00%",
+      "website": "https://bankofmaharashtra.in/personal-banking/loans/personal-loan"
+    }
   },
   {
-    "loan_type": "Home Loan",
-    "bank": "ICICI Bank",
-    "loan_amount": "₹4,000,000",
-    "customer_reviews": [
-      {
-        "reviewer_name": "Rajesh Kumar",
-        "location": "Bengaluru, India",
-        "rating": 3,
-        "review": "The loan approval took longer than expected, but the interest rate is competitive.",
-        "date": "2025-05-10"
-      },
-      {
-        "reviewer_name": "Sita Reddy",
-        "location": "Hyderabad, India",
-        "rating": 4,
-        "review": "Good experience overall, but the documentation process was a bit tedious.",
-        "date": "2025-04-05"
-      }
-    ]
+    "bankName": "Canara Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "700+",
+      "minIncome": "₹50,000/month",
+      "employmentType": "Salaried",
+      "minAge": 21,
+      "maxAge": 55,
+      "tenure": "12–60 months",
+      "interestRate": "10.70%–16.15%",
+      "website": "https://canarabank.com/pages/canara-ready-cash"
+    }
   },
   {
-    "loan_type": "Auto Loan",
-    "bank": "State Bank of India",
-    "loan_amount": "₹800,000",
-    "customer_reviews": [
-      {
-        "reviewer_name": "Vikram Singh",
-        "location": "Chennai, India",
-        "rating": 4,
-        "review": "The loan was approved quickly, and the EMI options are flexible. Satisfied with the service.",
-        "date": "2025-03-25"
-      },
-      {
-        "reviewer_name": "Neha Gupta",
-        "location": "Pune, India",
-        "rating": 3,
-        "review": "The interest rate is a bit high, but the overall process was hassle-free.",
-        "date": "2025-02-20"
-      }
-    ]
+    "bankName": "Central Bank of India",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50% p.a.",
+      "website": "https://www.centralbankofindia.co.in/personal-banking/loans/personal-loan"
+    }
   },
   {
-    "loan_type": "Personal Loan",
-    "bank": "Kotak Mahindra Bank",
-    "loan_amount": "₹750,000",
-    "customer_reviews": [
-      {
-        "reviewer_name": "Amit Sharma",
-        "location": "Delhi, India",
-        "rating": 4,
-        "review": "The loan process was smooth, and the disbursal was quick. However, the interest rate could be lower.",
-        "date": "2025-01-15"
-      },
-      {
-        "reviewer_name": "Neha Gupta",
-        "location": "Mumbai, India",
-        "rating": 5,
-        "review": "Excellent customer service and transparent terms. Highly recommend!",
-        "date": "2024-12-20"
-      }
-    ]
+    "bankName": "Indian Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50% p.a.",
+      "website": "https://www.indianbank.in/personal-loans"
+    }
   },
   {
-    "loan_type": "Personal Loan",
-    "bank": "Kotak Mahindra Bank",
-    "location": "Bengaluru",
-    "reviews": [
-      {
-        "reviewer_name": "Vaibhav Gaikwad",
-        "rating": 2,
-        "review": "Pathetic bank. The customer care is the worst. The RM will be constantly switched within 2/3 months and your issues need again a discussion from the start. There is no system which tracks your logged issues for history. So every time it's a new conversation from the start.",
-        "date": "2025-07-28"
-      },
-      {
-        "reviewer_name": "Jo Jo",
-        "rating": 1,
-        "review": "My father had taken an insurance with the benefit bringing me, his son, in his death. The premiums were all paid and everything up to date. In Nov he passed away due to old age at 89 years of age. I have been running from pillar to post for the last 4 months but no one is responding. I am totally frustrated with Kotak Mahindra Bank.",
-        "date": "2025-08-22"
-      },
-      {
-        "reviewer_name": "Sunita K.",
-        "rating": 2,
-        "review": "Really disappointed with the Personal loan services from the Kotak app. My application is stuck in not able to connect with and support agent or anything and on top of it. Kotak Bank doesn't provide any proper support for the same.",
-        "date": "2023-07-11"
-      },
-      {
-        "reviewer_name": "Prince Dwivedi",
-        "rating": 1,
-        "review": "Pathetic bank and Customer care is for name sake! I have applied for Kotak Mahindra Bank personal loan through online. I got the loan amount on delay basis, the rate of interest and the processing fee was very high since I had requirement taken this loan, the agent gave all the information about the loan process. The rate of interest was low once the agent gave the update and that was increased as well.",
-        "date": "2024-12-04"
-      },
-      {
-        "reviewer_name": "Anonymous",
-        "rating": 3,
-        "review": "I applied for Kotak Mahindra Bank personal loan online. The loan amount was received but delayed, and processing fees were higher than expected. Support staff was informative but inconsistent.",
-        "date": "2024-11-18"
-      }
-    ]
+    "bankName": "Indian Overseas Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50% p.a.",
+      "website": "https://www.iob.in/PersonalLoan.aspx"
+    }
   },
   {
-    "loan_type": "Personal Loan",
-    "bank": "Axis Bank",
-    "location": "Bengaluru",
-    "reviews": [
-      {
-        "reviewer_name": "Gowri",
-        "rating": 5,
-        "review": "The personal loan offers and approval process is very swift, efficient.",
-        "date": "2025-08-10"
-      },
-      {
-        "reviewer_name": "Dharmesh",
-        "rating": 5,
-        "review": "I have got personal loan in few seconds in my SB Account. Extremely happy.",
-        "date": "2025-07-25"
-      },
-      {
-        "reviewer_name": "Vijayakumar",
-        "rating": 5,
-        "review": "Instant approval and transparent process. Highly recommend!",
-        "date": "2025-06-30"
-      },
-      {
-        "reviewer_name": "Arun",
-        "rating": 1,
-        "review": "Very poor customer service. Waiting for days for a response.",
-        "date": "2017-07-29"
-      },
-      {
-        "reviewer_name": "Ameena",
-        "rating": 1,
-        "review": "Regretting taking a loan. Zero customer service.",
-        "date": "2017-04-27"
-      }
-    ]
+    "bankName": "Punjab & Sind Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50% p.a.",
+      "website": "https://www.psbindia.com/personal-loans"
+    }
   },
   {
-    "loan_type": "Personal Loan",
-    "bank": "HDFC Bank",
-    "location": "Bengaluru",
-    "reviews": [
-      {
-        "reviewer_name": "Ajinkya Pawar",
-        "rating": 5,
-        "review": "HDFC Bank came to my rescue with fast loan approval.",
-        "date": "2025-08-10"
-      },
-      {
-        "reviewer_name": "Anonymous",
-        "rating": 4,
-        "review": "Got approved but insisted to accept online T&Cs without paper copy.",
-        "date": "2022-05-15"
-      },
-      {
-        "reviewer_name": "Anonymous",
-        "rating": 3,
-        "review": "Delayed process with extensive documentation.",
-        "date": "2022-03-10"
-      },
-      {
-        "reviewer_name": "Anonymous",
-        "rating": 4,
-        "review": "Overall experience good. Interest rate and fees transparent.",
-        "date": "2021-12-05"
-      },
-      {
-        "reviewer_name": "Anonymous",
-        "rating": 2,
-        "review": "High processing fee and delayed loan amount.",
-        "date": "2021-09-15"
-      }
-    ]
+    "bankName": "Punjab National Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50% p.a.",
+      "website": "https://www.pnbindia.in/personal-loans.html"
+    }
   },
   {
-    "loan_type": "Personal Loan",
-    "bank": "ICICI Bank",
-    "location": "Bengaluru",
-    "reviews": [
-      {
-        "reviewer_name": "Abusalek Uddin",
-        "rating": 5,
-        "review": "Excellent mobile app and responsive customer service.",
-        "date": "2024-05-06"
-      },
-      {
-        "reviewer_name": "Anonymous",
-        "rating": 4,
-        "review": "Outstanding support and professionalism during loan process.",
-        "date": "2023-07-15"
-      },
-      {
-        "reviewer_name": "Anonymous",
-        "rating": 4,
-        "review": "Lower processing fee and superior service compared to others.",
-        "date": "2022-07-02"
-      },
-      {
-        "reviewer_name": "Anonymous",
-        "rating": 3,
-        "review": "Loan disbursal took longer than expected.",
-        "date": "2021-05-10"
-      },
-      {
-        "reviewer_name": "Anonymous",
-        "rating": 4,
-        "review": "Process was straightforward, competitive interest rate.",
-        "date": "2020-08-20"
-      }
-    ]
+    "bankName": "State Bank of India",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried",
+      "minAge": 21,
+      "maxAge": 58,
+      "tenure": "12–60 months",
+      "interestRate": "10.05% p.a.",
+      "website": "https://sbi.co.in/web/personal-banking/loans/personal-loans/sbi-personal-loan"
+    }
   },
   {
-    "loan_type": "Personal Loan",
-    "bank": "State Bank of India",
-    "location": "Bengaluru",
-    "reviews": [
-      {
-        "reviewer_name": "Anonymous",
-        "rating": 2,
-        "review": "Poor service and attention. Would not recommend.",
-        "date": "2021-06-15"
-      },
-      {
-        "reviewer_name": "Anonymous",
-        "rating": 1,
-        "review": "Worst bank, employees disinterested in customer support.",
-        "date": "2020-04-10"
-      },
-      {
-        "reviewer_name": "Anonymous",
-        "rating": 3,
-        "review": "Not customer friendly. Process very slow.",
-        "date": "2019-02-05"
-      },
-      {
-        "reviewer_name": "Anonymous",
-        "rating": 2,
-        "review": "Polite staff but application and approval process is pathetic.",
-        "date": "2018-07-29"
-      },
-      {
-        "reviewer_name": "Anonymous",
-        "rating": 3,
-        "review": "Interest rates increased unexpectedly for existing customers.",
-        "date": "2017-11-05"
-      }
-    ]
+    "bankName": "UCO Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50% p.a.",
+      "website": "https://www.ucobank.com/personal-loans"
+    }
   },
   {
-    "loan_type": "Personal Loan",
-    "bank": "Kotak Mahindra Bank",
-    "location": "Bengaluru",
-    "reviews": [
-      {
-        "reviewer_name": "Vaibhav Gaikwad",
-        "rating": 2,
-        "review": "Pathetic customer care. Issues not tracked properly.",
-        "date": "2025-07-28"
-      },
-      {
-        "reviewer_name": "Jo Jo",
-        "rating": 1,
-        "review": "Frustrating support. Application stuck and unresponsive staff.",
-        "date": "2025-08-22"
-      },
-      {
-        "reviewer_name": "Sunita K.",
-        "rating": 2,
-        "review": "Application stuck, no proper support via app.",
-        "date": "2023-07-11"
-      },
-      {
-        "reviewer_name": "Prince Dwivedi",
-        "rating": 1,
-        "review": "High interest rate and processing fee. Poor support.",
-        "date": "2024-12-04"
-      },
-      {
-        "reviewer_name": "Anonymous",
-        "rating": 3,
-        "review": "Loan amount delayed, processing fee high, inconsistent support.",
-        "date": "2024-11-18"
-      }
-    ]
+    "bankName": "Union Bank of India",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50% p.a.",
+      "website": "https://www.unionbankofindia.co.in/personal-loans"
+    }
+  },
+  {
+    "bankName": "Bandhan Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50% p.a.",
+      "website": "https://www.bandhanbank.com/personal-loans"
+    }
+  },
+  {
+    "bankName": "City Union Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50% p.a.",
+      "website": "https://www.cityunionbank.com/personal-loans"
+    }
+  },
+  {
+    "bankName": "CSB Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50% p.a.",
+      "website": "https://www.csb.co.in/personal-loans"
+    }
+  },
+  {
+    "bankName": "DBS Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "700+",
+      "minIncome": "₹25,000/month",
+      "employmentType": "Salaried",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "10.90%–21%",
+      "website": "https://www.dbs.com/in/personal/loans/personal-loan"
+    }
+  },
+  {
+    "bankName": "DCB Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "700+",
+      "minIncome": "₹20,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11%–18%",
+      "website": "https://www.dcbbank.com/personal/loans/personal-loan"
+    }
+  },
+  {
+    "bankName": "Dhanlaxmi Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50%–18%",
+      "website": "https://www.dhanbank.com/personal/loans/personal-loan"
+    }
+  },
+  {
+    "bankName": "Federal Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹20,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "10.99%–18%",
+      "website": "https://www.federalbank.co.in/personal-loans"
+    }
+  },
+  {
+    "bankName": "HDFC Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹25,000/month",
+      "employmentType": "Salaried",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "3–72 months",
+      "interestRate": "10.85%–24%",
+      "website": "https://www.hdfcbank.com/personal/borrow/popular-loans/personal-loan/eligibility"
+    }
+  },
+  {
+    "bankName": "ICICI Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "700+",
+      "minIncome": "₹30,000/month",
+      "employmentType": "Salaried",
+      "minAge": 23,
+      "maxAge": 58,
+      "tenure": "12–60 months",
+      "interestRate": "10.60%–16.50%",
+      "website": "https://www.icicibank.com/personal-banking/loans/personal-loan/eligibility"
+    }
+  },
+  {
+    "bankName": "IDBI Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "700+",
+      "minIncome": "₹25,000/month",
+      "employmentType": "Salaried",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "10.75%–17%",
+      "website": "https://www.idbibank.in/personal-loans"
+    }
+  },
+  {
+    "bankName": "IDFC First Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "700+",
+      "minIncome": "₹20,000/month",
+      "employmentType": "Salaried",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11%–21%",
+      "website": "https://www.idfcfirstbank.com/personal-loans/personal-loan"
+    }
+  },
+  {
+    "bankName": "IndusInd Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "700+",
+      "minIncome": "₹25,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "10.99%–20%",
+      "website": "https://www.indusind.com/personal-loans/personal-loan.html"
+    }
+  },
+  {
+    "bankName": "Jammu & Kashmir Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50% p.a.",
+      "website": "https://www.jkbank.com/loans/personal-loan"
+    }
+  },
+  {
+    "bankName": "Karnataka Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹20,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "10.75%–18%",
+      "website": "https://www.karnatakabank.com/personal-loans"
+    }
+  },
+  {
+    "bankName": "Karur Vysya Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹20,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "10.95%–18%",
+      "website": "https://www.kvb.co.in/personal-loans"
+    }
+  },
+  {
+    "bankName": "Kotak Mahindra Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "700+",
+      "minIncome": "₹25,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "10.99%–24%",
+      "website": "https://www.kotak.com/en/personal-banking/loans/personal-loan.html"
+    }
+  },
+  {
+    "bankName": "Nainital Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹20,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11%–18%",
+      "website": "https://www.nainitalbank.co.in/personal-loans"
+    }
+  },
+  {
+    "bankName": "RBL Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "700+",
+      "minIncome": "₹25,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "10.75%–24%",
+      "website": "https://www.rblbank.com/personal-loans"
+    }
+  },
+  {
+    "bankName": "SBM Bank India",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "700+",
+      "minIncome": "₹25,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11%–24%",
+      "website": "https://www.sbmbank.co.in/personal-loans"
+    }
+  },
+  {
+    "bankName": "South Indian Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "700+",
+      "minIncome": "₹20,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "10.75%–22%",
+      "website": "https://www.southindianbank.com/personal-loans"
+    }
+  },
+  {
+    "bankName": "Tamilnad Mercantile Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50%–20%",
+      "website": "https://www.tmb.in/personal-loans"
+    }
+  },
+  {
+    "bankName": "Yes Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "700+",
+      "minIncome": "₹25,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "10.99%–21%",
+      "website": "https://www.yesbank.in/personal/loans/personal-loan"
+    }
+  },
+  {
+    "bankName": "AU Small Finance Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11%–22%",
+      "website": "https://www.aubank.in/personal-loan"
+    }
+  },
+  {
+    "bankName": "Capital Small Finance Bank Limited",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11%–20%",
+      "website": "https://www.capitalsfb.in/personal-loans"
+    }
+  },
+  {
+    "bankName": "Equitas Small Finance Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.25%–20%",
+      "website": "https://www.equitasbank.com/personal-loan"
+    }
+  },
+  {
+    "bankName": "ESAF Small Finance Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹10,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "12%–22%",
+      "website": "https://www.esafbank.com/personal-loans"
+    }
+  },
+  {
+    "bankName": "Jana Small Finance Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50%–21%",
+      "website": "https://www.janabank.com/personal-loans"
+    }
+  },
+  {
+    "bankName": "North East Small Finance Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11%–20%",
+      "website": "https://www.nesfb.com/personal-loan"
+    }
+  },
+  {
+    "bankName": "Shivalik Small Finance Bank Limited",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹10,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "12%–22%",
+      "website": "https://www.shivaliksfb.com/personal-loan"
+    }
+  },
+  {
+    "bankName": "Suryoday Small Finance Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹10,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11%–20%",
+      "website": "https://www.suryodaybank.com/personal-loans"
+    }
+  },
+  {
+    "bankName": "Ujjivan Small Finance Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹10,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50%–21%",
+      "website": "https://www.ujjivansfb.in/personal-loans"
+    }
+  },
+  {
+    "bankName": "Unity Small Finance Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹10,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11%–20%",
+      "website": "https://www.unitysfb.com/personal-loans"
+    }
+  },
+  {
+    "bankName": "Utkarsh Small Finance Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹10,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11%–20%",
+      "website": "https://www.utkarshsfb.com/personal-loans"
+    }
   }
 ]
-
