@@ -1,416 +1,650 @@
- [
+[
   {
-    "Bank Name": "Axis Bank",
-    "Highest Slab": 7.2,
-    "1 year tenure": 6.7,
-    "3 year tenure": 7.1,
-    "5 year tenure": 7,
-    "Senior Citizens": "7.75%",
-    "Official Website": "https://www.axisbank.com/"
+    "bankName": "Axis Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "720+",
+      "minIncome": "₹25,000/month",
+      "employmentType": "Salaried",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "9.99%–22%",
+      "website": "https://www.axisbank.com/personal/borrow/popular-loans/personal-loan/eligibility"
+    }
   },
   {
-    "Bank Name": "Bandhan Bank",
-    "Highest Slab": 7.85,
-    "1 year tenure": 7.85,
-    "3 year tenure": 7.25,
-    "5 year tenure": 5.85,
-    "Senior Citizens": "7.50%",
-    "Official Website": "https://bandhanbank.com/"
+    "bankName": "Bank of Baroda",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 65,
+      "tenure": "12–84 months",
+      "interestRate": "11.25% p.a.",
+      "website": "https://www.bankofbaroda.in/personal-banking/loans/personal-loan/baroda-personal-loan"
+    }
   },
   {
-    "Bank Name": "City Union Bank",
-    "Highest Slab": 7.25,
-    "1 year tenure": 7,
-    "3 year tenure": 6.5,
-    "5 year tenure": 6.25,
-    "Senior Citizens": "7.25%",
-    "Official Website": "https://www.cityunionbank.com/"
+    "bankName": "Bank of India",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.10%–14.15%",
+      "website": "https://www.bankofindia.co.in/personal-loan/star-personal-loan"
+    }
   },
   {
-    "Bank Name": "CSB Bank",
-    "Highest Slab": 7.75,
-    "1 year tenure": 5,
-    "3 year tenure": 5.75,
-    "5 year tenure": 5.75,
-    "Senior Citizens": "7.75%",
-    "Official Website": "https://www.csb.co.in/"
+    "bankName": "Bank of Maharashtra",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹25,000/month",
+      "employmentType": "Salaried",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "9.00%–20.00%",
+      "website": "https://bankofmaharashtra.in/personal-banking/loans/personal-loan"
+    }
   },
   {
-    "Bank Name": "DBS Bank",
-    "Highest Slab": 7.5,
-    "1 year tenure": 7,
-    "3 year tenure": 6.5,
-    "5 year tenure": 6.5,
-    "Senior Citizens": "7.5%",
-    "Official Website": "https://www.dbs.com/"
+    "bankName": "Canara Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "700+",
+      "minIncome": "₹50,000/month",
+      "employmentType": "Salaried",
+      "minAge": 21,
+      "maxAge": 55,
+      "tenure": "12–60 months",
+      "interestRate": "10.70%–16.15%",
+      "website": "https://canarabank.com/pages/canara-ready-cash"
+    }
   },
   {
-    "Bank Name": "DCB Bank",
-    "Highest Slab": 8.05,
-    "1 year tenure": 7.1,
-    "3 year tenure": 7.55,
-    "5 year tenure": 7.4,
-    "Senior Citizens": "7.90%",
-    "Official Website": "https://www.dcbbank.com/"
+    "bankName": "Central Bank of India",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50% p.a.",
+      "website": "https://www.centralbankofindia.co.in/personal-banking/loans/personal-loan"
+    }
   },
   {
-    "Bank Name": "Dhanlaxmi Bank",
-    "Highest Slab": 7.25,
-    "1 year tenure": 6.75,
-    "3 year tenure": 6.5,
-    "5 year tenure": 7.25,
-    "Senior Citizens": "7.25%",
-    "Official Website": "https://www.dhanbank.com/"
+    "bankName": "Indian Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50% p.a.",
+      "website": "https://www.indianbank.in/personal-loans"
+    }
   },
   {
-    "Bank Name": "Federal Bank",
-    "Highest Slab": 7.4,
-    "1 year tenure": 6.8,
-    "3 year tenure": 7,
-    "5 year tenure": 6.6,
-    "Senior Citizens": "7.25%",
-    "Official Website": "https://www.federalbank.co.in/"
+    "bankName": "Indian Overseas Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50% p.a.",
+      "website": "https://www.iob.in/PersonalLoan.aspx"
+    }
   },
   {
-    "Bank Name": "HDFC Bank",
-    "Highest Slab": 7.25,
-    "1 year tenure": 6.6,
-    "3 year tenure": 7.15,
-    "5 year tenure": 7.2,
-    "Senior Citizens": "7.70%",
-    "Official Website": "https://www.hdfcbank.com/"
+    "bankName": "Punjab & Sind Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50% p.a.",
+      "website": "https://www.psbindia.com/personal-loans"
+    }
   },
   {
-    "Bank Name": "ICICI Bank",
-    "Highest Slab": 7.2,
-    "1 year tenure": 6.7,
-    "3 year tenure": 7,
-    "5 year tenure": 7,
-    "Senior Citizens": "7.50%",
-    "Official Website": "https://www.icicibank.com/"
+    "bankName": "Punjab National Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50% p.a.",
+      "website": "https://www.pnbindia.in/personal-loans.html"
+    }
   },
   {
-    "Bank Name": "IDBI Bank",
-    "Highest Slab": 7.25,
-    "1 year tenure": 6.8,
-    "3 year tenure": 6.5,
-    "5 year tenure": 6.5,
-    "Senior Citizens": "7.00%",
-    "Official Website": "https://www.idbibank.in/"
+    "bankName": "State Bank of India",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried",
+      "minAge": 21,
+      "maxAge": 58,
+      "tenure": "12–60 months",
+      "interestRate": "10.05% p.a.",
+      "website": "https://sbi.co.in/web/personal-banking/loans/personal-loans/sbi-personal-loan"
+    }
   },
   {
-    "Bank Name": "IDFC First Bank",
-    "Highest Slab": 7.9,
-    "1 year tenure": 6.5,
-    "3 year tenure": 7.25,
-    "5 year tenure": 7,
-    "Senior Citizens": "7.50%",
-    "Official Website": "https://www.idfcfirstbank.com/"
+    "bankName": "UCO Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50% p.a.",
+      "website": "https://www.ucobank.com/personal-loans"
+    }
   },
   {
-    "Bank Name": "IndusInd Bank",
-    "Highest Slab": 7.99,
-    "1 year tenure": 7.75,
-    "3 year tenure": 7.25,
-    "5 year tenure": 7.25,
-    "Senior Citizens": "7.75%",
-    "Official Website": "https://www.indusind.com/"
+    "bankName": "Union Bank of India",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50% p.a.",
+      "website": "https://www.unionbankofindia.co.in/personal-loans"
+    }
   },
   {
-    "Bank Name": "Jammu & Kashmir Bank",
-    "Highest Slab": 7.05,
-    "1 year tenure": 7.05,
-    "3 year tenure": 6.5,
-    "5 year tenure": 6.5,
-    "Senior Citizens": "7.00%",
-    "Official Website": "https://www.jkbank.com/"
+    "bankName": "Bandhan Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50% p.a.",
+      "website": "https://www.bandhanbank.com/personal-loans"
+    }
   },
   {
-    "Bank Name": "Karnataka Bank",
-    "Highest Slab": 7.25,
-    "1 year tenure": 7.1,
-    "3 year tenure": 6.5,
-    "5 year tenure": 6.5,
-    "Senior Citizens": "6.90%",
-    "Official Website": "https://www.karnatakabank.com/"
+    "bankName": "City Union Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50% p.a.",
+      "website": "https://www.cityunionbank.com/personal-loans"
+    }
   },
   {
-    "Bank Name": "Karur Vysya Bank",
-    "Highest Slab": 7.5,
-    "1 year tenure": 7,
-    "3 year tenure": 7,
-    "5 year tenure": 6.5,
-    "Senior Citizens": "5.90%",
-    "Official Website": "https://www.kvb.co.in/"
+    "bankName": "CSB Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50% p.a.",
+      "website": "https://www.csb.co.in/personal-loans"
+    }
   },
   {
-    "Bank Name": "Kotak Mahindra Bank",
-    "Highest Slab": 7.4,
-    "1 year tenure": 7.1,
-    "3 year tenure": 7,
-    "5 year tenure": 6.2,
-    "Senior Citizens": "6.70%",
-    "Official Website": "https://www.kotak.com/"
+    "bankName": "DBS Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "700+",
+      "minIncome": "₹25,000/month",
+      "employmentType": "Salaried",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "10.90%–21%",
+      "website": "https://www.dbs.com/in/personal/loans/personal-loan"
+    }
   },
   {
-    "Bank Name": "Nainital Bank",
-    "Highest Slab": 7.05,
-    "1 year tenure": 6.7,
-    "3 year tenure": 6.25,
-    "5 year tenure": 5.75,
-    "Senior Citizens": "7.05%",
-    "Official Website": "https://www.nainitalbank.co.in/"
+    "bankName": "DCB Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "700+",
+      "minIncome": "₹20,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11%–18%",
+      "website": "https://www.dcbbank.com/personal/loans/personal-loan"
+    }
   },
   {
-    "Bank Name": "RBL Bank",
-    "Highest Slab": 8,
-    "1 year tenure": 7.5,
-    "3 year tenure": 7.5,
-    "5 year tenure": 7.1,
-    "Senior Citizens": "7.60%",
-    "Official Website": "https://www.rblbank.com/"
+    "bankName": "Dhanlaxmi Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50%–18%",
+      "website": "https://www.dhanbank.com/personal/loans/personal-loan"
+    }
   },
   {
-    "Bank Name": "SBM Bank India",
-    "Highest Slab": 8.4,
-    "1 year tenure": 7.1,
-    "3 year tenure": 7.6,
-    "5 year tenure": 7.75,
-    "Senior Citizens": "8.25%",
-    "Official Website": "https://www.sbmbank.co.in/"
+    "bankName": "Federal Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹20,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "10.99%–18%",
+      "website": "https://www.federalbank.co.in/personal-loans"
+    }
   },
   {
-    "Bank Name": "South Indian Bank",
-    "Highest Slab": 7.25,
-    "1 year tenure": 6.7,
-    "3 year tenure": 6.7,
-    "5 year tenure": 6,
-    "Senior Citizens": "6.50%",
-    "Official Website": "https://www.southindianbank.com/"
+    "bankName": "HDFC Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹25,000/month",
+      "employmentType": "Salaried",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "3–72 months",
+      "interestRate": "10.85%–24%",
+      "website": "https://www.hdfcbank.com/personal/borrow/popular-loans/personal-loan/eligibility"
+    }
   },
   {
-    "Bank Name": "Tamilnad Mercantile Bank",
-    "Highest Slab": 7.5,
-    "1 year tenure": 7,
-    "3 year tenure": 6.5,
-    "5 year tenure": 6.5,
-    "Senior Citizens": "7.00%",
-    "Official Website": "https://www.tmb.in/"
+    "bankName": "ICICI Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "700+",
+      "minIncome": "₹30,000/month",
+      "employmentType": "Salaried",
+      "minAge": 23,
+      "maxAge": 58,
+      "tenure": "12–60 months",
+      "interestRate": "10.60%–16.50%",
+      "website": "https://www.icicibank.com/personal-banking/loans/personal-loan/eligibility"
+    }
   },
   {
-    "Bank Name": "Yes Bank",
-    "Highest Slab": 8,
-    "1 year tenure": 7.25,
-    "3 year tenure": 7.25,
-    "5 year tenure": 7.25,
-    "Senior Citizens": "8.00%",
-    "Official Website": "https://www.yesbank.in/"
+    "bankName": "IDBI Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "700+",
+      "minIncome": "₹25,000/month",
+      "employmentType": "Salaried",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "10.75%–17%",
+      "website": "https://www.idbibank.in/personal-loans"
+    }
   },
   {
-    "Bank Name": "Bank of Baroda",
-    "Highest Slab": 7.25,
-    "1 year tenure": 6.85,
-    "3 year tenure": 7.25,
-    "5 year tenure": 6.5,
-    "Senior Citizens": "7.15% – 7.50%",
-    "Official Website": "https://www.bankofbaroda.in/"
+    "bankName": "IDFC First Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "700+",
+      "minIncome": "₹20,000/month",
+      "employmentType": "Salaried",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11%–21%",
+      "website": "https://www.idfcfirstbank.com/personal-loans/personal-loan"
+    }
   },
   {
-    "Bank Name": "Bank of India",
-    "Highest Slab": 7.3,
-    "1 year tenure": 6.8,
-    "3 year tenure": 6.5,
-    "5 year tenure": 6,
-    "Senior Citizens": "6.75% (6.90% for super senior citizens)",
-    "Official Website": "https://www.bankofindia.co.in/"
+    "bankName": "IndusInd Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "700+",
+      "minIncome": "₹25,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "10.99%–20%",
+      "website": "https://www.indusind.com/personal-loans/personal-loan.html"
+    }
   },
   {
-    "Bank Name": "Bank of Maharashtra",
-    "Highest Slab": 7.25,
-    "1 year tenure": 6.75,
-    "3 year tenure": 6.5,
-    "5 year tenure": 6.5,
-    "Senior Citizens": "7.00%",
-    "Official Website": "https://www.bankofmaharashtra.in/"
+    "bankName": "Jammu & Kashmir Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50% p.a.",
+      "website": "https://www.jkbank.com/loans/personal-loan"
+    }
   },
   {
-    "Bank Name": "Canara Bank",
-    "Highest Slab": 7.25,
-    "1 year tenure": 6.85,
-    "3 year tenure": 6.8,
-    "5 year tenure": 6.7,
-    "Senior Citizens": "7.25%",
-    "Official Website": "https://www.canarabank.com/"
-  },
-   {
-    "Bank Name": "Central Bank of India",
-    "Highest Slab": 7.3,
-    "1 year tenure": 6.85,
-    "3 year tenure": 6.5,
-    "5 year tenure": 6.5,
-    "Senior Citizens": "7.00%",
-    "Official Website": "https://www.centralbankofindia.co.in/"
+    "bankName": "Karnataka Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹20,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "10.75%–18%",
+      "website": "https://www.karnatakabank.com/personal-loans"
+    }
   },
   {
-    "Bank Name": "Indian Bank",
-    "Highest Slab": 7.25,
-    "1 year tenure": 6.1,
-    "3 year tenure": 6.25,
-    "5 year tenure": 6.25,
-    "Senior Citizens": "6.60% – 6.75%",
-    "Official Website": "https://www.indianbank.in/"
+    "bankName": "Karur Vysya Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹20,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "10.95%–18%",
+      "website": "https://www.kvb.co.in/personal-loans"
+    }
   },
   {
-    "Bank Name": "Indian Overseas Bank",
-    "Highest Slab": 7.3,
-    "1 year tenure": 6.9,
-    "3 year tenure": 6.5,
-    "5 year tenure": 6.5,
-    "Senior Citizens": "7.00%",
-    "Official Website": "https://www.iob.in/"
+    "bankName": "Kotak Mahindra Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "700+",
+      "minIncome": "₹25,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "10.99%–24%",
+      "website": "https://www.kotak.com/en/personal-banking/loans/personal-loan.html"
+    }
   },
   {
-    "Bank Name": "Punjab & Sind Bank",
-    "Highest Slab": 7.3,
-    "1 year tenure": 6.3,
-    "3 year tenure": 6,
-    "5 year tenure": 6,
-    "Senior Citizens": "6.50%",
-    "Official Website": "https://www.psbindia.com/"
+    "bankName": "Nainital Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹20,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11%–18%",
+      "website": "https://www.nainitalbank.co.in/personal-loans"
+    }
   },
   {
-    "Bank Name": "Punjab National Bank",
-    "Highest Slab": 7.25,
-    "1 year tenure": 6.75,
-    "3 year tenure": 7,
-    "5 year tenure": 6.5,
-    "Senior Citizens": "7.25%",
-    "Official Website": "https://www.pnbindia.in/"
+    "bankName": "RBL Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "700+",
+      "minIncome": "₹25,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "10.75%–24%",
+      "website": "https://www.rblbank.com/personal-loans"
+    }
   },
   {
-    "Bank Name": "State Bank of India",
-    "Highest Slab": 7.1,
-    "1 year tenure": 6.8,
-    "3 year tenure": 6.75,
-    "5 year tenure": 6.5,
-    "Senior Citizens": "7.50%",
-    "Official Website": "https://www.sbi.co.in/"
+    "bankName": "SBM Bank India",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "700+",
+      "minIncome": "₹25,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11%–24%",
+      "website": "https://www.sbmbank.co.in/personal-loans"
+    }
   },
   {
-    "Bank Name": "UCO Bank",
-    "Highest Slab": 7.05,
-    "1 year tenure": 6.5,
-    "3 year tenure": 6.3,
-    "5 year tenure": 6.2,
-    "Senior Citizens": "6.70%",
-    "Official Website": "https://www.ucobank.com/"
+    "bankName": "South Indian Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "700+",
+      "minIncome": "₹20,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "10.75%–22%",
+      "website": "https://www.southindianbank.com/personal-loans"
+    }
   },
   {
-    "Bank Name": "Union Bank of India",
-    "Highest Slab": 7.25,
-    "1 year tenure": 6.75,
-    "3 year tenure": 6.5,
-    "5 year tenure": 6.5,
-    "Senior Citizens": "7.00%",
-    "Official Website": "https://www.unionbankofindia.co.in/"
+    "bankName": "Tamilnad Mercantile Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50%–20%",
+      "website": "https://www.tmb.in/personal-loans"
+    }
   },
   {
-    "Bank Name": "AU Small Finance Bank",
-    "Highest Slab": 8,
-    "1 year tenure": 7.25,
-    "3 year tenure": 7.5,
-    "5 year tenure": 7.25,
-    "Senior Citizens": "7.75%",
-    "Official Website": "https://www.aubank.in/"
+    "bankName": "Yes Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "700+",
+      "minIncome": "₹25,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "10.99%–21%",
+      "website": "https://www.yesbank.in/personal/loans/personal-loan"
+    }
   },
   {
-    "Bank Name": "Capital Small Finance Bank Limited",
-    "Highest Slab": 7.55,
-    "1 year tenure": 7.5,
-    "3 year tenure": 7.15,
-    "5 year tenure": 7.1,
-    "Senior Citizens": "7.60%",
-    "Official Website": "https://www.capitalsmallfinance.com/"
+    "bankName": "AU Small Finance Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11%–22%",
+      "website": "https://www.aubank.in/personal-loan"
+    }
   },
   {
-    "Bank Name": "Equitas Small Finance Bank",
-    "Highest Slab": 8.5,
-    "1 year tenure": 8.2,
-    "3 year tenure": 8,
-    "5 year tenure": 7.25,
-    "Senior Citizens": "8.5%",
-    "Official Website": "https://www.equitasbank.com/"
+    "bankName": "Capital Small Finance Bank Limited",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11%–20%",
+      "website": "https://www.capitalsfb.in/personal-loans"
+    }
   },
   {
-    "Bank Name": "ESAF Small Finance Bank",
-    "Highest Slab": 8.25,
-    "1 year tenure": 6,
-    "3 year tenure": 6.75,
-    "5 year tenure": 6.25,
-    "Senior Citizens": "8.25%",
-    "Official Website": "https://www.esafbank.com/"
+    "bankName": "Equitas Small Finance Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.25%–20%",
+      "website": "https://www.equitasbank.com/personal-loan"
+    }
   },
   {
-    "Bank Name": "Jana Small Finance Bank",
-    "Highest Slab": 8.5,
-    "1 year tenure": 8.5,
-    "3 year tenure": 7.25,
-    "5 year tenure": 7.25,
-    "Senior Citizens": "7.75%",
-    "Official Website": "https://www.janabank.com/"
+    "bankName": "ESAF Small Finance Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹10,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "12%–22%",
+      "website": "https://www.esafbank.com/personal-loans"
+    }
   },
   {
-    "Bank Name": "North East Small Finance Bank",
-    "Highest Slab": 9,
-    "1 year tenure": 7,
-    "3 year tenure": 8,
-    "5 year tenure": 6.25,
-    "Senior Citizens": "9%",
-    "Official Website": "https://www.nesfb.com/"
+    "bankName": "Jana Small Finance Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50%–21%",
+      "website": "https://www.janabank.com/personal-loans"
+    }
   },
   {
-    "Bank Name": "Shivalik Small Finance Bank Limited",
-    "Highest Slab": 8.55,
-    "1 year tenure": 7.8,
-    "3 year tenure": 7.5,
-    "5 year tenure": 6.5,
-    "Senior Citizens": "7.00%",
-    "Official Website": "https://www.shivalikbank.com/"
+    "bankName": "North East Small Finance Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹15,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11%–20%",
+      "website": "https://www.nesfb.com/personal-loan"
+    }
   },
   {
-    "Bank Name": "Suryoday Small Finance Bank",
-    "Highest Slab": 8.65,
-    "1 year tenure": 6.85,
-    "3 year tenure": 8.6,
-    "5 year tenure": 8.25,
-    "Senior Citizens": "8.75%",
-    "Official Website": "https://www.suryodaybank.com/"
+    "bankName": "Shivalik Small Finance Bank Limited",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹10,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "12%–22%",
+      "website": "https://www.shivaliksfb.com/personal-loan"
+    }
   },
   {
-    "Bank Name": "Ujjivan Small Finance Bank",
-    "Highest Slab": 8.25,
-    "1 year tenure": 8.25,
-    "3 year tenure": 7.2,
-    "5 year tenure": 7.2,
-    "Senior Citizens": "7.70%",
-    "Official Website": "https://www.ujjivansfb.in/"
+    "bankName": "Suryoday Small Finance Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹10,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11%–20%",
+      "website": "https://www.suryodaybank.com/personal-loans"
+    }
   },
   {
-    "Bank Name": "Unity Small Finance Bank",
-    "Highest Slab": 9,
-    "1 year tenure": 7.85,
-    "3 year tenure": 8.15,
-    "5 year tenure": 8.15,
-    "Senior Citizens": "9%",
-    "Official Website": "https://www.unitysmallfinancebank.com/"
+    "bankName": "Ujjivan Small Finance Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹10,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11.50%–21%",
+      "website": "https://www.ujjivansfb.in/personal-loans"
+    }
   },
   {
-    "Bank Name": "Utkarsh Small Finance Bank",
-    "Highest Slab": 8.5,
-    "1 year tenure": 8,
-    "3 year tenure": 8.5,
-    "5 year tenure": 7.75,
-    "Senior Citizens": "8.10%",
-    "Official Website": "https://www.utkarsh.bank/"
+    "bankName": "Unity Small Finance Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹10,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11%–20%",
+      "website": "https://www.unitysfb.com/personal-loans"
+    }
+  },
+  {
+    "bankName": "Utkarsh Small Finance Bank",
+    "loanType": "Personal Loan",
+    "eligibility": {
+      "creditScore": "650+",
+      "minIncome": "₹10,000/month",
+      "employmentType": "Salaried/Self-employed",
+      "minAge": 21,
+      "maxAge": 60,
+      "tenure": "12–60 months",
+      "interestRate": "11%–20%",
+      "website": "https://www.utkarshsfb.com/personal-loans"
+    }
   }
 ]
+
+
+
+
