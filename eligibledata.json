@@ -8,7 +8,7 @@
     "Self_Employed": "No",
     "ApplicantIncome": 5849,
     "CoapplicantIncome": 0.0,
-    "LoanAmount": 100000,
+    "LoanAmount": 100.0,
     "Loan_Amount_Term": 360.0,
     "Credit_History": 1.0,
     "Property_Area": "Urban",
